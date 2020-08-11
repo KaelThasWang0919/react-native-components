@@ -1,0 +1,17 @@
+{
+  "name":"@kaelthas/react-native-components",
+  "version":"0.0.2",
+  "description":"react-native-components",
+  "main":"index.js",
+
+  "keywords": [
+    "components",
+    "Button",
+    "react",
+    "react-native",
+    "android"
+  ],
+  "author": "KaelThasWang",
+  "license": "MIT"
+
+}
